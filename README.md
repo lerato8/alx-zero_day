@@ -1,2 +1,2 @@
-my first readme
-main
+i am a software engineer
+
